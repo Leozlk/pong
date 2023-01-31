@@ -25,6 +25,8 @@ To edit this repository in MakeCode.
 This image shows the blocks code from the last commit in master.
 This image may take a few minutes to refresh.
 
+![Build status badge](https://github.com/leozlk/pong-v10/workflows/MakeCode/badge.svg)
+
 #### Metadata (used for search, rendering)
 
 * for PXT/arcade
